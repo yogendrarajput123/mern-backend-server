@@ -28,3 +28,5 @@ module.exports = users;
 
 // import userModel in server.js
 // All crud operation or any operation we do it with this userModel
+// 
+// // users is our db name
